@@ -1,2 +1,2 @@
-# DataStructures-Algos-in-Python
-To tryout all the DS and Algos in Python
+# DataStructures-Algos-in-Golang
+To tryout all the DS and Algos in Golang
